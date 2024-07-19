@@ -1,5 +1,5 @@
 # Forecasting of Wind Turbine Power Generation
-> Three Machine Learning and Statistics Approaches to predicting Acutal Power Output of a Wind Turbine
+> Three Machine Learning and Statistics Approaches to predicting Actual Power Output of a Wind Turbine
 
 Project Start: 23-May-2022
 
